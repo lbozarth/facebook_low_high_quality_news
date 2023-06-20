@@ -1,8 +1,8 @@
-# This repo contains code and data for the paper: `Bursts of contemporaneous publication among high and low credibility online information providers`
+# This repo contains code and data for the paper: "Bursts of contemporaneous publication among high and low credibility online information providers"
 
 ## scripts
 
-### src folder
+### SRC folder
 1. Code to scrape URLs: `src/fetch_url.py`
 2. Code to extract body text from an html webpage: `src/parse_article.py`
 3. Code for entity categorization: `gen_entcat_*.py`, and `torchProp.py`
@@ -21,5 +21,9 @@
 4. Domain-level popularity (viewer traffic): `data/domain_quality.csv`
 5. Entity clustering final result: `data/clustering_results.csv`
 
-### external data
+### External data
 1. Zimdars' list: https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview
+
+
+## Contact
+Please email cbudak@umich.edu or liafan@uw.edu if you have any questions about the code or script.
