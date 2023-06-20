@@ -1,6 +1,6 @@
 # This repo contains code and data for the paper: "Bursts of contemporaneous publication among high and low credibility online information providers"
 
-## scripts
+## Scripts
 
 ### SRC folder
 1. Code to scrape URLs: `src/fetch_url.py`
